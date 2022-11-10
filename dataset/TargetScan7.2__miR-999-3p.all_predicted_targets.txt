@@ -1,0 +1,938 @@
+Target_gene	Representative transcript	Gene name	3P-seq tags + 5	Conserved sites total	Conserved 8mer sites	Conserved 7mer-m8 sites	Conserved 7mer-A1 sites	Poorly conserved sites total	Poorly conserved 8mer sites	Poorly conserved 7mer-m8 sites	Poorly conserved 7mer-A1 sites	Representative miRNA	Cumulative weighted context score	Total context score	Aggregate PCT	Previous TargetScan publication(s)
+DIP-delta	FBtr0333612	Dpr-interacting protein delta	250	1	1	0	0	1	0	1	0	dme-miR-999-3p	-3.10	-3.48	0.76	
+pros	FBtr0304603	prospero	7546	0	0	0	0	4	1	2	1	dme-miR-999-3p	-2.50	-5.12	0.25	
+Sec61gamma	FBtr0340610	Sec61 gamma subunit	6905	1	1	0	0	0	0	0	0	dme-miR-999-3p	-2.13	-2.14	0.60	
+nAChRalpha1	FBtr0334916	nicotinic Acetylcholine Receptor alpha1	676	2	2	0	0	0	0	0	0	dme-miR-999-3p	-1.89	-3.64	0.93	
+CG46315	FBtr0452130	-	2183	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.80	-1.88	0.73	
+CG10170	FBtr0084420	-	81	0	0	0	0	2	1	0	1	dme-miR-999-3p	-1.77	-1.89	< 0.1	
+CG31644	FBtr0079159	-	1894	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.73	-1.82	< 0.1	
+CG15422	FBtr0077505	-	4162	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.69	-1.72	< 0.1	
+CG6308	FBtr0074036	-	630	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.67	-1.90	< 0.1	
+CG43116	FBtr0305046	-	5	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.65	-1.65	0.73	
+CG13786	FBtr0333353	-	22	0	0	0	0	1	0	1	0	dme-miR-999-3p	-1.58	-1.58	0.17	
+CG34225	FBtr0112418	-	5	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.55	-1.55	< 0.1	
+Der-1	FBtr0077813	Derlin-1	10009	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.48	-1.48	0.71	
+CG12490	FBtr0302717	-	5	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.47	-1.47	< 0.1	
+CG34351	FBtr0112561	-	456	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.45	-1.47	0.73	2011
+Cpr76Bb	FBtr0074933	Cuticular protein 76Bb	130	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.44	-1.44	< 0.1	
+hng2	FBtr0081919	hinge2	1605	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.44	-1.45	< 0.1	
+CG15475	FBtr0081381	-	1574	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.41	-1.41	< 0.1	
+CG43732	FBtr0330024	-	497	2	1	0	1	0	0	0	0	dme-miR-999-3p	-1.37	-2.00	0.88	
+CG4558	FBtr0070995	-	1230	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.37	-1.43	0.69	
+cpx	FBtr0336482	complexin	14598	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.36	-1.44	0.50	
+CG3104	FBtr0077686	-	122	0	0	0	0	2	1	0	1	dme-miR-999-3p	-1.34	-1.58	0.25	
+ths	FBtr0304622	thisbe	518	1	1	0	0	1	1	0	0	dme-miR-999-3p	-1.30	-2.26	< 0.1	
+CG3857	FBtr0070349	-	128	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.25	-1.25	0.72	
+CG31954	FBtr0077563	-	13	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.25	-1.25	< 0.1	
+PIG-U	FBtr0079682	Phosphatidylinositol glycan anchor biosynthesis class U	3736	0	0	0	0	1	0	1	0	dme-miR-999-3p	-1.24	-1.27	< 0.1	
+CG12106	FBtr0071306	-	702	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.23	-1.26	0.72	
+HIP-R	FBtr0070598	Hsc/Hsp70-interacting protein related	743	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.23	-1.23	0.68	
+Awh	FBtr0073155	Arrowhead	167	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.21	-1.30	0.73	2008, 2011
+CG32192	FBtr0075147	-	2023	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.21	-1.24	< 0.1	
+SkpE	FBtr0074806	SKP1-related E	6	0	0	0	0	1	0	1	0	dme-miR-999-3p	-1.20	-1.20	< 0.1	
+Bsg	FBtr0079568	Basigin	41205	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.18	-1.40	0.73	2008, 2011
+CG14182	FBtr0346534	-	788	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.17	-1.17	< 0.1	
+Tollo	FBtr0075607	Tollo	924	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.15	-1.42	0.72	
+CG42741	FBtr0303203	-	19	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.14	-1.14	0.73	2011
+HIP	FBtr0070600	Hsc/Hsp70-interacting protein	250	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.13	-1.13	0.68	
+Cdk7	FBtr0070756	Cyclin-dependent kinase 7	509	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.13	-1.13	< 0.1	
+beat-Vc	FBtr0082658	beat-Vc	85	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.11	-1.11	0.73	2011
+CG13950	FBtr0078018	-	99	1	0	1	0	0	0	0	0	dme-miR-999-3p	-1.11	-1.11	0.33	2011
+SuUR	FBtr0076203	Suppressor of Under-Replication	1544	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.08	-1.13	0.73	
+CG14676	FBtr0078645	-	955	0	0	0	0	1	0	1	0	dme-miR-999-3p	-1.07	-1.07	< 0.1	
+CG12692	FBtr0345705	-	199	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.06	-1.08	< 0.1	
+CG31609	FBtr0299873	-	300	0	0	0	0	1	0	1	0	dme-miR-999-3p	-1.06	-1.06	< 0.1	
+CG4332	FBtr0073726	-	2417	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.04	-1.11	0.61	
+CG13606	FBtr0084553	-	730	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.04	-1.04	< 0.1	
+vret	FBtr0084323	vreteno	394	0	0	0	0	1	0	1	0	dme-miR-999-3p	-1.04	-1.07	< 0.1	
+rdgC	FBtr0342946	retinal degeneration C	1232	0	0	0	0	3	0	1	2	dme-miR-999-3p	-1.02	-1.50	< 0.1	
+CG13978	FBtr0085182	-	1898	0	0	0	0	1	0	1	0	dme-miR-999-3p	-1.02	-1.02	< 0.1	
+PMP34	FBtr0073287	Peroxisomal Membrane Protein 34	3868	0	0	0	0	1	1	0	0	dme-miR-999-3p	-1.02	-1.32	< 0.1	
+Srp54k	FBtr0077169	Signal recognition particle protein 54k	7947	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.00	-1.00	0.73	2008, 2011
+Pcyt1	FBtr0345365	Phosphocholine cytidylyltransferase 1	10580	1	1	0	0	0	0	0	0	dme-miR-999-3p	-1.00	-1.00	0.69	
+inc	FBtr0070260	insomniac	2045	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.98	-0.99	0.73	
+CG15046	FBtr0074628	-	173	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.97	-0.97	< 0.1	
+CG31268	FBtr0307190	-	18	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.97	-1.06	N/A	
+CG3862	FBtr0078038	-	259	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.96	-0.96	< 0.1	
+CG45101	FBtr0344636	-	1678	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.95	-1.13	0.19	
+Bem46	FBtr0077643	Bem46	2576	1	0	0	1	1	0	0	1	dme-miR-999-3p	-0.95	-1.02	0.74	2008, 2011
+CG30479	FBtr0087479	-	174	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.94	-0.98	< 0.1	
+Cbp80	FBtr0070684	cap binding protein 80	2597	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.94	-0.95	0.62	
+Mtk	FBtr0087386	Metchnikowin	7315	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.93	-0.94	0.60	2008, 2011
+CG13239	FBtr0078548	-	193	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.93	-1.06	< 0.1	
+CG7220	FBtr0088219	-	10873	1	0	0	1	1	0	1	0	dme-miR-999-3p	-0.93	-1.66	0.78	2008, 2011
+IKKepsilon	FBtr0081390	I-kappaB kinase epsilon	941	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.93	-0.95	< 0.1	
+Mdr50	FBtr0087537	Multi drug resistance 50	413	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.93	-0.95	< 0.1	
+CG9304	FBtr0345537	-	2874	0	0	0	0	4	2	2	0	dme-miR-999-3p	-0.92	-1.00	0.12	
+AGO1	FBtr0305592	Argonaute-1	14165	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.92	-1.09	0.73	
+CG5287	FBtr0080436	-	338	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.92	-0.95	< 0.1	
+Ir56b	FBtr0086465	Ionotropic receptor 56b	6	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.92	-0.92	< 0.1	
+Drep1	FBtr0087978	DNA fragmentation factor-related protein 1	1091	2	0	1	1	0	0	0	0	dme-miR-999-3p	-0.92	-0.92	0.84	2008, 2011
+ArgRS-m	FBtr0333826	"Arginyl-tRNA synthetase, mitochondrial"	171	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.92	-0.94	< 0.1	
+Catsup	FBtr0081143	Catecholamines up	6805	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.92	-0.92	< 0.1	
+Nmdar2	FBtr0339592	NMDA receptor 2	115	3	1	0	2	0	0	0	0	dme-miR-999-3p	-0.91	-1.42	0.95	
+COX7AL	FBtr0081839	Cytochrome c oxidase subunit 7A-like	4328	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.91	-0.92	< 0.1	
+His4r	FBtr0334029	Histone H4 replacement	53535	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.88	-0.88	< 0.1	
+CG14931	FBtr0300370	-	1523	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.88	-0.90	< 0.1	
+CG15657	FBtr0071635	-	2528	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.88	-0.88	< 0.1	
+CG13994	FBtr0079188	-	2855	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.87	-0.97	0.19	
+CG13144	FBtr0080037	-	60	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.87	-0.87	0.19	
+NaCP60E	FBtr0333816	Na channel protein 60E	740	2	0	0	2	1	0	0	1	dme-miR-999-3p	-0.86	-1.50	0.89	2008, 2011
+CG6231	FBtr0083807	-	2687	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.85	-0.85	0.73	2008, 2011
+CG13737	FBtr0075754	-	610	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.84	-0.84	< 0.1	
+ltl	FBtr0076793	larval translucida	3766	2	0	1	1	0	0	0	0	dme-miR-999-3p	-0.84	-1.01	0.83	2008, 2011
+Rcd-1r	FBtr0079779	Rcd-1 related	62	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.84	-0.84	< 0.1	
+coro	FBtr0086207	coro	8871	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.84	-0.87	< 0.1	
+CG5181	FBtr0079467	-	676	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.84	-1.44	< 0.1	
+scrt	FBtr0333136	scratch	2662	1	0	0	1	1	0	0	1	dme-miR-999-3p	-0.83	-1.20	0.61	
+nAChRbeta2	FBtr0084682	nicotinic Acetylcholine Receptor beta2	108	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.82	-1.12	0.72	
+CG15283	FBtr0300837	-	28	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.81	-0.81	0.54	
+CG13457	FBtr0075653	-	576	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.81	-0.95	< 0.1	
+CG4753	FBtr0075421	-	2558	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.81	-0.81	< 0.1	
+CG42525	FBtr0300854	-	18	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.80	-0.92	< 0.1	
+Gdap1	FBtr0077167	Gdap1	637	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.80	-0.80	0.51	2008, 2011
+Swim	FBtr0071784	Secreted Wg-interacting molecule	11042	1	0	1	0	1	0	1	0	dme-miR-999-3p	-0.80	-0.82	0.44	2008, 2011
+Mat1	FBtr0088255	Menage a trois 1	1506	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.80	-0.87	< 0.1	
+CG1407	FBtr0300719	-	3021	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.80	-0.85	< 0.1	
+CG9737	FBtr0085639	-	7	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.78	-0.78	< 0.1	
+Hph	FBtr0344333	HIF prolyl hydroxylase	3006	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.78	-0.84	0.24	
+AdenoK	FBtr0346531	Adenosine Kinase	5675	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.77	-0.78	0.71	2008, 2011
+crol	FBtr0080260	crooked legs	7061	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.77	-0.93	0.73	2008, 2011
+TwdlD	FBtr0085035	TweedleD	368	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.77	-0.77	< 0.1	
+Ac3	FBtr0085897	Ac3	527	0	0	0	0	2	1	1	0	dme-miR-999-3p	-0.77	-0.79	0.18	
+fs(1)K10	FBtr0070396	female sterile (1) K10	829	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.76	-0.86	0.53	
+CG6767	FBtr0076415	-	27406	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.76	-0.94	< 0.1	
+CG11825	FBtr0088316	-	97	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.76	-0.94	< 0.1	
+Lk6	FBtr0082534	Lk6 kinase	26356	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.76	-0.79	0.60	
+CG8407	FBtr0087985	-	218	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.76	-0.82	< 0.1	
+Zasp67	FBtr0310627	Z band alternatively spliced PDZ-motif protein 67	142	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.76	-0.76	< 0.1	
+app	FBtr0304661	approximated	1136	2	0	0	2	0	0	0	0	dme-miR-999-3p	-0.75	-0.81	0.78	2008, 2011
+Saf-B	FBtr0392911	Scaffold attachment factor B	5556	1	0	1	0	2	0	1	1	dme-miR-999-3p	-0.75	-0.75	0.26	
+Hug	FBtr0082639	Hugin	49	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.75	-0.75	< 0.1	
+CG31633	FBtr0079325	-	659	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.75	-0.75	< 0.1	
+CG31689	FBtr0077706	-	4604	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.74	-0.82	0.18	
+Wnt2	FBtr0088512	Wnt oncogene analog 2	242	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.74	-1.31	< 0.1	
+CG3594	FBtr0072374	-	775	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.74	-1.93	< 0.1	
+CG14572	FBtr0078434	-	78	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.73	-0.73	0.25	
+CG5056	FBtr0080003	-	1966	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.73	-0.76	< 0.1	
+CG42497	FBtr0300626	-	5844	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.73	-0.73	N/A	
+Ent1	FBtr0078094	Equilibrative nucleoside transporter 1	735	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.72	-0.72	< 0.1	
+CG43445	FBtr0309175	-	65	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.72	-0.72	< 0.1	
+LRP1	FBtr0344893	LDL receptor protein 1	2621	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.72	-0.73	0.72	
+CG11760	FBtr0081907	-	3712	2	0	0	2	0	0	0	0	dme-miR-999-3p	-0.72	-1.10	0.81	2008, 2011
+Lkb1	FBtr0301488	Lkb1 kinase	845	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.72	-0.76	0.76	2008, 2011
+CG12730	FBtr0070780	-	3704	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.71	-0.72	0.73	
+EndoB	FBtr0086558	Endophilin B	2210	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.71	-0.89	0.67	
+Argk	FBtr0345030	Arginine kinase	62712	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.71	-0.71	< 0.1	
+asp	FBtr0084692	abnormal spindle	1340	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.71	-0.75	< 0.1	
+sim	FBtr0082710	single-minded	333	1	0	0	1	1	0	1	0	dme-miR-999-3p	-0.71	-0.72	0.66	2008, 2011
+par-6	FBtr0074455	par-6	3238	2	2	0	0	0	0	0	0	dme-miR-999-3p	-0.70	-1.44	0.91	2011
+CG34396	FBtr0112644	-	388	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.70	-0.70	< 0.1	
+Rim2	FBtr0305618	Replication in mitochondria 2	3139	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.69	-0.69	0.27	
+Bdp1	FBtr0080471	B double prime 1	202	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.69	-0.69	< 0.1	
+CG8944	FBtr0074201	-	678	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.69	-1.08	0.73	2011
+CG8326	FBtr0074486	-	637	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.69	-0.69	< 0.1	
+CG9686	FBtr0071389	-	1363	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.68	-0.68	< 0.1	
+l(2)tid	FBtr0089503	lethal (2) tumorous imaginal discs	3399	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.68	-0.69	< 0.1	
+MICU1	FBtr0113028	Mitochondrial calcium uptake 1	2886	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.68	-0.68	< 0.1	
+Tdrd3	FBtr0075691	Tudor domain containing 3	1957	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.68	-0.68	< 0.1	
+betaggt-I	FBtr0078991	beta subunit of type I geranylgeranyl transferase	1274	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.68	-0.69	0.74	2008, 2011
+CG44001	FBtr0334124	-	7598	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.68	-0.68	< 0.1	
+ear	FBtr0334695	ENL/AF9-related	1672	0	0	0	0	3	0	3	0	dme-miR-999-3p	-0.68	-1.17	0.25	
+Evi5	FBtr0332620	Ecotropic viral integration site 5	4089	2	2	0	0	0	0	0	0	dme-miR-999-3p	-0.68	-2.91	0.72	
+CG5196	FBtr0082584	-	3807	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.68	-0.68	0.40	
+CG1636	FBtr0339833	-	831	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.68	-0.85	< 0.1	
+CG12659	FBtr0332627	-	566	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.67	-0.67	< 0.1	
+Ndg	FBtr0339459	Nidogen/entactin	618	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.67	-0.67	0.16	
+dgo	FBtr0088249	diego	135	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.67	-0.69	< 0.1	
+CG5432	FBtr0085006	-	848	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.67	-0.71	0.73	
+CG30345	FBtr0305317	-	5	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.67	-0.67	< 0.1	
+Vha68-2	FBtr0080418	Vacuolar H[+] ATPase 68 kDa subunit 2	26868	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.67	-0.67	0.36	2008, 2011
+CG7326	FBtr0333159	-	1637	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.66	-0.68	< 0.1	
+CG3795	FBtr0344154	-	334	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.66	-0.66	< 0.1	
+stv	FBtr0075806	starvin	5565	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.65	-0.74	0.70	
+2mit	FBtr0301436	2mit	160	1	0	1	0	2	2	0	0	dme-miR-999-3p	-0.65	-0.70	0.39	2011
+Vdup1	FBtr0301890	Vitamin D[[3]] up-regulated protein 1	898	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.65	-1.07	< 0.1	
+px	FBtr0071838	plexus	1652	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.65	-0.65	0.72	2008
+Cpr	FBtr0079250	Cytochrome P450 reductase	6396	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.64	-0.65	< 0.1	
+msl-1	FBtr0081130	male-specific lethal 1	1965	1	1	0	0	1	0	1	0	dme-miR-999-3p	-0.64	-0.85	0.63	
+Gyc89Db	FBtr0083294	Guanylyl cyclase at 89Db	52	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.64	-0.64	< 0.1	
+fab1	FBtr0089554	fab1 kinase	1328	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.64	-0.64	0.32	
+tun	FBtr0308814	tungus	2871	2	0	1	1	0	0	0	0	dme-miR-999-3p	-0.64	-1.05	0.65	
+CG12818	FBtr0082230	-	830	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.64	-0.64	< 0.1	
+CG4069	FBtr0075965	-	1314	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.64	-0.64	< 0.1	
+CG3655	FBtr0113327	-	832	0	0	0	0	2	2	0	0	dme-miR-999-3p	-0.64	-0.65	< 0.1	
+DUBAI	FBtr0087950	Deubiquitinating apoptotic inhibitor	2852	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.63	-0.68	0.69	2008, 2011
+CG16771	FBtr0081204	-	842	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.63	-0.64	< 0.1	
+CG10147	FBtr0333060	-	121	0	0	0	0	2	0	0	2	dme-miR-999-3p	-0.63	-0.69	< 0.1	
+CG1172	FBtr0333810	-	3445	1	1	0	0	1	0	1	0	dme-miR-999-3p	-0.63	-1.17	0.76	2008, 2011
+form3	FBtr0091533	formin 3	2200	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.63	-0.63	0.25	2008, 2011
+jet	FBtr0079057	jetlag	489	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.63	-0.64	0.32	
+dmpd	FBtr0088423	dampened	4732	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.63	-0.64	0.13	
+up	FBtr0308234	upheld	52274	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.63	-0.90	< 0.1	
+bug	FBtr0087290	bunker gear	4362	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.63	-0.65	< 0.1	
+Lgr1	FBtr0083509	Leucine-rich repeat-containing G protein-coupled receptor 1	214	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.63	-0.63	< 0.1	
+Sk2	FBtr0072984	Sphingosine kinase 2	1745	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.63	-0.63	0.62	2008, 2011
+RhoGAP19D	FBtr0301537	Rho GTPase activating protein at 19D	3154	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.62	-1.07	< 0.1	
+Ggamma1	FBtr0088645	G protein gamma 1	26430	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.62	-0.62	0.32	
+vig2	FBtr0084776	vig2	14921	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.62	-0.62	< 0.1	
+CG2209	FBtr0073717	-	126	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.62	-0.66	< 0.1	
+CG12288	FBtr0080957	-	1890	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.62	-0.62	< 0.1	
+CG42264	FBtr0299596	-	5	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.62	-0.62	< 0.1	
+CG3625	FBtr0078136	-	7356	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.62	-0.64	< 0.1	
+CG15892	FBtr0070926	-	1249	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.62	-0.62	< 0.1	
+CG17159	FBtr0302542	-	2588	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.62	-0.71	N/A	
+CG2201	FBtr0305503	-	5796	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.61	-0.61	< 0.1	
+bru3	FBtr0330351	bruno 3	4808	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.61	-0.71	0.63	
+CG18302	FBtr0080095	-	134	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.61	-0.62	< 0.1	
+CG17083	FBtr0084383	-	1722	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.61	-0.70	< 0.1	
+CG3812	FBtr0073689	-	1145	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.60	-0.62	< 0.1	
+Trx-2	FBtr0079839	thioredoxin-2	23523	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.60	-0.61	< 0.1	
+CngA	FBtr0302924	Cyclic nucleotide-gated ion channel subunit A	38	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.60	-0.60	0.72	
+CG46320	FBtr0452138	-	6353	1	0	0	1	1	0	0	1	dme-miR-999-3p	-0.60	-0.60	0.63	
+e	FBtr0084106	ebony	1602	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.60	-0.60	< 0.1	
+CG10710	FBtr0075817	-	45	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.60	-0.60	0.50	2008, 2011
+mRpL38	FBtr0073902	mitochondrial ribosomal protein L38	1742	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.59	-0.60	0.14	
+Usp39	FBtr0074643	Ubiquitin specific protease 39	772	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.59	-0.59	< 0.1	
+pds5	FBtr0087974	precocious dissociation of sisters 5	3376	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.59	-0.59	0.43	2008, 2011
+CG43778	FBtr0331503	-	669	1	0	0	1	1	0	1	0	dme-miR-999-3p	-0.58	-0.60	0.48	2011
+msps	FBtr0301479	mini spindles	2808	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.58	-0.62	0.67	2008, 2011
+Nmdar1	FBtr0078763	NMDA receptor 1	119	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.58	-0.61	0.73	2008, 2011
+CG45002	FBtr0344096	-	296	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.57	-0.69	0.24	
+Gld	FBtr0081596	Glucose dehydrogenase	179	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.57	-0.63	< 0.1	
+phyl	FBtr0087516	phyllopod	530	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.57	-0.67	0.17	
+Nckx30C	FBtr0335506	Nckx30C	5411	1	1	0	0	3	0	1	2	dme-miR-999-3p	-0.57	-3.28	0.82	
+CG3078	FBtr0070415	-	92	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.57	-0.57	0.78	2011
+CG2617	FBtr0081391	-	492	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.56	-0.62	< 0.1	
+CG13408	FBtr0084179	-	47	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.56	-0.56	< 0.1	
+nAChRalpha3	FBtr0339652	nicotinic Acetylcholine Receptor alpha3	904	0	0	0	0	2	1	0	1	dme-miR-999-3p	-0.56	-0.84	0.16	
+MFS14	FBtr0345426	Major Facilitator Superfamily Transporter 14	3361	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.56	-0.56	< 0.1	
+Tom20	FBtr0332719	Translocase of outer membrane 20	18145	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.56	-0.63	0.30	
+CG13894	FBtr0072606	-	63	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.56	-0.56	< 0.1	
+SLIRP2	FBtr0081878	SRA stem-loop interacting RNA binding protein 2	1221	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.56	-0.57	< 0.1	
+CG13021	FBtr0070570	-	590	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.56	-0.57	< 0.1	
+isoQC	FBtr0078199	iso Glutaminyl cyclase	7	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.55	-0.81	< 0.1	
+Ubqn	FBtr0340612	Ubiquilin	9991	1	0	0	1	1	0	1	0	dme-miR-999-3p	-0.55	-0.59	0.69	
+Ice2	FBtr0084015	Interacts with the C terminus of ELL 2	30	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.55	-0.57	< 0.1	
+Swip-1	FBtr0340322	Swiprosin-1	10363	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.55	-0.55	< 0.1	
+Ctl2	FBtr0085371	Choline transporter-like 2	2604	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.55	-0.64	< 0.1	
+CG12768	FBtr0331396	-	515	1	1	0	0	1	0	1	0	dme-miR-999-3p	-0.55	-1.64	0.73	
+swa	FBtr0070922	swallow	1326	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.55	-0.55	0.13	
+aub	FBtr0080165	aubergine	158	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.55	-0.55	< 0.1	
+gt	FBtr0070460	giant	16	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.55	-0.55	0.16	
+Dhod	FBtr0081890	Dihydroorotate dehydrogenase	1160	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.54	-0.54	< 0.1	
+CG7781	FBtr0079609	-	1426	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.54	-0.76	0.64	2008, 2011
+Usp10	FBtr0333267	Ubiquitin specific protease 10	5144	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.54	-0.65	< 0.1	
+AdamTS-A	FBtr0083160	ADAM metallopeptidase with thrombospondin type 1 motif A	1132	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.54	-0.55	0.62	
+Psf3	FBtr0333306	Psf3	768	1	0	1	0	1	0	0	1	dme-miR-999-3p	-0.54	-0.75	0.38	
+jhamt	FBtr0340233	juvenile hormone acid methyltransferase	130	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.54	-0.62	< 0.1	
+CG16817	FBtr0082082	-	28969	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.54	-0.56	0.15	
+CG11741	FBtr0112769	-	163	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.54	-0.54	< 0.1	
+CG32204	FBtr0113429	-	107	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.53	-0.55	< 0.1	
+lute	FBtr0083435	lute	2097	1	0	1	0	1	0	1	0	dme-miR-999-3p	-0.53	-0.81	0.34	2011
+TMEM216	FBtr0300543	Transmembrane protein 216	4138	2	0	0	2	0	0	0	0	dme-miR-999-3p	-0.53	-0.94	0.81	
+Atf3	FBtr0070244	Activating transcription factor 3	2940	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.53	-0.55	0.16	
+Tsp26A	FBtr0113024	Tetraspanin 26A	592	1	0	1	0	2	1	1	0	dme-miR-999-3p	-0.53	-0.59	0.35	2011
+Arf79F	FBtr0299906	ADP ribosylation factor at 79F	44687	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.53	-0.53	< 0.1	
+CG13893	FBtr0072562	-	67	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.53	-0.71	< 0.1	
+CG6583	FBtr0080358	-	516	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.52	-0.53	< 0.1	
+Fsn	FBtr0087763	F-box synaptic protein	3462	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.52	-0.52	0.21	
+Lcp65Ag1	FBtr0077058	Lcp65Ag1	816	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.52	-0.52	< 0.1	
+CG34135	FBtr0110905	-	245	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.52	-0.52	< 0.1	
+CG5867	FBtr0080449	-	7139	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.51	-0.52	0.10	
+CG30391	FBtr0071621	-	362	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.51	-0.51	< 0.1	
+CG10082	FBtr0071661	-	4368	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.51	-0.56	< 0.1	
+nkd	FBtr0332649	naked cuticle	92	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.51	-0.60	0.14	
+mRRF2	FBtr0344226	mitochondrial ribosome recycling factor 2	550	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.51	-0.51	< 0.1	
+sNPF-R	FBtr0332667	short neuropeptide F receptor	70	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.51	-0.65	< 0.1	
+GATAe	FBtr0083218	GATAe	594	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.51	-0.51	< 0.1	
+Scm	FBtr0082102	Sex comb on midleg	2366	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.50	-0.50	0.50	2008, 2011
+Glut1	FBtr0333493	Glucose transporter 1	1047	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.50	-0.76	0.55	
+Alh	FBtr0081612	Alhambra	616	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.50	-0.50	< 0.1	
+CG10561	FBtr0081155	-	4410	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.50	-0.53	< 0.1	
+CG7985	FBtr0083559	-	22	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.50	-0.50	0.35	
+raw	FBtr0079745	raw	1140	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.50	-0.50	< 0.1	
+Galphai	FBtr0076934	G protein alpha i subunit	5222	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.49	-0.51	0.36	2008, 2011
+CG44000	FBtr0334119	-	7664	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.49	-0.50	< 0.1	
+jv	FBtr0307514	javelin	36	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.49	-0.49	< 0.1	
+Su(var)3-9	FBtr0310385	Suppressor of variegation 3-9	179	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.49	-0.49	< 0.1	
+Atox1	FBtr0078426	Antioxidant 1 copper chaperone	7181	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.48	-0.61	< 0.1	
+mRpL45	FBtr0084272	mitochondrial ribosomal protein L45	3069	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.48	-0.48	< 0.1	
+CG32758	FBtr0340670	-	3977	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.48	-0.49	0.73	2011
+Zasp66	FBtr0089565	Z band alternatively spliced PDZ-motif protein 66	15600	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.48	-0.93	< 0.1	
+skd	FBtr0078329	skuld	3754	1	1	0	0	2	0	2	0	dme-miR-999-3p	-0.47	-0.48	0.74	2008, 2011
+CG10494	FBtr0071699	-	524	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.47	-1.36	0.62	
+Vhl	FBtr0088115	von Hippel-Lindau	765	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.47	-0.81	< 0.1	
+CG2258	FBtr0071110	-	910	2	0	1	1	1	0	1	0	dme-miR-999-3p	-0.47	-1.11	0.46	
+hbn	FBtr0071556	homeobrain	31	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.47	-0.57	0.20	
+vg	FBtr0087785	vestigial	349	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.47	-0.48	0.40	2008, 2011
+CG17580	FBtr0087857	-	64	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.47	-0.47	0.17	
+CG33098	FBtr0082580	-	317	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.46	-0.69	< 0.1	
+Gpdh	FBtr0333229	Glycerol 3 phosphate dehydrogenase	26572	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.46	-0.67	< 0.1	
+CG9062	FBtr0088181	-	704	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.46	-0.47	< 0.1	
+Grip163	FBtr0076061	Grip163	774	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.46	-0.47	< 0.1	
+PK1-R	FBtr0305681	Pyrokinin 1 receptor	34	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.46	-0.56	< 0.1	
+CG4302	FBtr0071625	-	91	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.45	-0.58	< 0.1	
+AstA-R1	FBtr0070575	Allatostatin A receptor 1	148	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.45	-0.54	0.16	
+CG12179	FBtr0300755	-	252	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.44	-0.44	< 0.1	
+Proc-R	FBtr0070714	Proctolin receptor	555	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.44	-0.45	0.43	
+CG46316	FBtr0452132	-	66	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.44	-0.44	N/A	
+bcd	FBtr0081664	bicoid	1073	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.44	-0.44	< 0.1	
+CG10345	FBtr0083360	-	1086	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.44	-0.44	0.22	2008, 2011
+Etl1	FBtr0079901	Etl1	356	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.44	-0.44	< 0.1	
+Pino	FBtr0077987	Pinocchio	4549	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.44	-0.44	0.73	2008, 2011
+CG3808	FBtr0075041	-	306	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.44	-0.44	< 0.1	
+slow	FBtr0073291	slowdown	178	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.43	-0.43	< 0.1	
+CG5177	FBtr0332522	-	11469	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.43	-0.56	< 0.1	
+E(spl)m5-HLH	FBtr0084979	"Enhancer of split m5, helix-loop-helix"	346	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.43	-0.43	< 0.1	
+sstn	FBtr0075657	stepping stone	556	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.43	-0.44	< 0.1	
+sigmar	FBtr0072096	salivary glands marred	1354	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.43	-0.45	0.58	2008, 2011
+edl	FBtr0086652	ETS-domain lacking	870	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.43	-0.88	< 0.1	
+otu	FBtr0071236	ovarian tumor	3054	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.42	-0.44	< 0.1	
+pan	FBtr0308615	pangolin	3875	0	0	0	0	2	0	0	2	dme-miR-999-3p	-0.42	-0.68	< 0.1	
+CG42313	FBtr0345431	-	149	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.42	-0.42	< 0.1	
+Sdic4	FBtr0346678	Sperm-specific dynein intermediate chain 4	5	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.42	-0.42	< 0.1	
+CG5065	FBtr0087108	-	7000	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.42	-0.42	< 0.1	
+RASSF8	FBtr0084898	Ras association domain family member 8	862	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.42	-0.58	< 0.1	
+AP-1gamma	FBtr0309255	"Adaptor Protein complex 1, gamma subunit"	3420	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.42	-0.42	0.23	
+Achl	FBtr0345529	Achilles	110	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.42	-0.42	0.15	
+nAChRalpha4	FBtr0300118	nicotinic Acetylcholine Receptor alpha4	839	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.42	-1.18	0.72	
+alphaTub84B	FBtr0081639	alpha-Tubulin at 84B	83125	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.41	-0.42	< 0.1	
+Kap-alpha3	FBtr0082107	karyopherin alpha3	15989	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.41	-0.41	< 0.1	
+CG32365	FBtr0076746	-	559	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.41	-0.41	< 0.1	
+GluRIB	FBtr0334765	Glutamate receptor IB	437	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.41	-0.42	0.71	
+Vps13	FBtr0088910	Vacuolar protein sorting 13	4413	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.41	-0.41	0.16	
+CG42340	FBtr0331297	-	354	0	0	0	0	4	0	3	1	dme-miR-999-3p	-0.41	-9.51	0.12	
+CG34133	FBtr0301073	-	1690	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.40	-0.42	0.24	
+CTCF	FBtr0076878	CTCF	1140	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.40	-0.44	< 0.1	
+Cyp4p2	FBtr0088591	Cyp4p2	61	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.40	-0.40	< 0.1	
+CG42613	FBtr0304687	-	3113	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.40	-0.41	0.73	2008, 2011
+CG44355	FBtr0339812	-	29	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.40	-0.80	0.80	
+CG17380	FBtr0299867	-	343	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.40	-0.40	< 0.1	
+Nop17l	FBtr0088901	Nop17 like	1399	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.40	-1.04	0.73	2008, 2011
+CG44837	FBtr0343552	-	122	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.39	-0.43	< 0.1	
+robl62A	FBtr0072695	robl62A	779	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.39	-0.39	< 0.1	
+CG9114	FBtr0074020	-	350	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.39	-0.39	< 0.1	
+GluClalpha	FBtr0335417	GluClalpha	1587	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.39	-0.70	0.18	
+mldr	FBtr0305494	mulder	561	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.39	-0.52	< 0.1	
+NetB	FBtr0302018	Netrin-B	371	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.39	-0.43	0.73	2011
+CG14995	FBtr0300877	-	15347	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.39	-0.39	< 0.1	
+Syx1A	FBtr0392904	Syntaxin 1A	3285	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.38	-1.09	< 0.1	
+CG42449	FBtr0300222	-	24	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.38	-0.38	0.18	
+CG10188	FBtr0081282	-	349	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.38	-0.41	< 0.1	
+Ccm3	FBtr0083094	Cerebral cavernous malformation 3	7292	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.38	-0.63	< 0.1	
+CG34155	FBtr0111047	-	258	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.38	-0.41	< 0.1	
+okr	FBtr0077673	okra	588	1	0	0	1	1	0	0	1	dme-miR-999-3p	-0.38	-1.14	0.75	
+CG14829	FBtr0273403	-	9	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.38	-0.44	0.27	
+Rpt4R	FBtr0076040	Regulatory particle triple-A ATPase 4-related	636	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.38	-0.38	< 0.1	
+Rdl	FBtr0076536	Resistant to dieldrin	4678	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.38	-0.43	< 0.1	
+CG8475	FBtr0079639	-	5564	0	0	0	0	2	1	0	1	dme-miR-999-3p	-0.38	-0.38	< 0.1	
+mGluR	FBtr0344897	metabotropic Glutamate Receptor	420	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.37	-1.25	< 0.1	
+vilya	FBtr0070486	vilya	194	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.37	-1.42	< 0.1	
+cnir	FBtr0077666	cornichon related	297	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.37	-0.39	< 0.1	
+ppan	FBtr0084012	peter pan	1356	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.37	-0.46	< 0.1	
+CG1434	FBtr0073903	-	589	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.37	-0.37	< 0.1	
+na	FBtr0344822	narrow abdomen	428	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.37	-0.37	0.58	
+oxt	FBtr0072904	peptide O-xylosyltransferase	683	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.37	-0.44	0.17	
+oc	FBtr0300106	ocelliless	985	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.37	-0.38	< 0.1	
+CG2841	FBtr0070403	-	1248	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.37	-0.37	< 0.1	
+r-l	FBtr0084038	rudimentary-like	1616	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.36	-0.37	< 0.1	
+CG8910	FBtr0087071	-	62	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.36	-0.37	0.42	
+rdgB	FBtr0331716	retinal degeneration B	2090	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.36	-0.47	0.30	
+CG3309	FBtr0070798	-	882	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.36	-0.41	< 0.1	
+MED9	FBtr0300664	Mediator complex subunit 9	3138	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.36	-0.39	N/A	
+CG45049	FBtr0344359	-	2512	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.36	-0.42	0.42	
+CG33995	FBtr0100048	-	8623	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.36	-0.41	< 0.1	
+dos	FBtr0072926	daughter of sevenless	3424	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.36	-0.36	< 0.1	
+Rab11	FBtr0084011	Rab11	15352	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.35	-0.36	0.35	2008, 2011
+Akt1	FBtr0344717	Akt1	7207	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.35	-0.50	0.14	
+Atg17	FBtr0078716	Autophagy-related 17	6420	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.35	-0.36	< 0.1	
+CG13766	FBtr0343161	-	924	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.35	-0.38	< 0.1	
+slmb	FBtr0084032	supernumerary limbs	6095	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.35	-0.73	< 0.1	
+Gbs-76A	FBtr0345390	Glycogen binding subunit 76A	3717	1	0	1	0	1	0	0	1	dme-miR-999-3p	-0.35	-0.51	0.29	
+flfl	FBtr0114604	falafel	2932	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.35	-0.60	< 0.1	
+Cyp317a1	FBtr0345873	Cyp317a1	406	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.35	-0.35	< 0.1	
+CG5597	FBtr0072131	-	1351	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.35	-0.82	< 0.1	
+Eip63F-1	FBtr0303420	Ecdysone-induced protein 63F 1	1342	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.35	-0.52	0.45	2008, 2011
+Crtc	FBtr0345384	CREB-regulated transcription coactivator	1643	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.35	-0.35	< 0.1	
+dpr14	FBtr0307270	defective proboscis extension response 14	477	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.35	-0.42	0.49	
+CG13699	FBtr0075134	-	8	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.35	-0.35	< 0.1	
+fj	FBtr0086754	four-jointed	437	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.35	-0.35	< 0.1	
+CG3168	FBtr0340268	-	25105	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.35	-0.43	< 0.1	
+Ptp36E	FBtr0343821	Protein tyrosine phosphatase 36E	590	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.34	-0.34	0.50	2008, 2011
+jeb	FBtr0333065	jelly belly	1613	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.34	-0.91	< 0.1	
+Ekar	FBtr0089102	Eye-enriched kainate receptor	157	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.34	-0.34	N/A	
+CG42709	FBtr0302981	-	3376	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.34	-0.34	0.33	
+homer	FBtr0329892	homer	3688	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.34	-0.36	< 0.1	
+CG13579	FBtr0072298	-	64	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.34	-0.34	< 0.1	
+Grd	FBtr0075139	Glycine receptor	55	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.34	-0.34	< 0.1	
+CG14764	FBtr0088880	-	792	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.34	-0.44	< 0.1	
+CG10948	FBtr0075938	-	552	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.34	-0.37	0.18	
+Teh2	FBtr0073258	tipE homolog 2	1331	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.34	-0.34	0.12	
+Syn1	FBtr0078450	Syntrophin-like 1	366	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.33	-0.34	< 0.1	
+Mtl	FBtr0085192	Mig-2-like	4368	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.33	-0.34	< 0.1	
+MBD-R2	FBtr0082611	MBD-R2	1650	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.33	-0.60	< 0.1	
+fwe	FBtr0075541	flower	2647	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.33	-0.34	< 0.1	
+RpS15Aa	FBtr0073794	Ribosomal protein S15Aa	15768	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.33	-0.41	< 0.1	
+CG13954	FBtr0332996	-	79	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.33	-0.35	< 0.1	
+reb	FBtr0088054	rebuf	54	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.33	-0.33	< 0.1	
+Drice	FBtr0085482	Death related ICE-like caspase	1474	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.33	-0.37	< 0.1	
+nAChRalpha7	FBtr0301835	nicotinic Acetylcholine Receptor alpha7	2379	2	1	1	0	0	0	0	0	dme-miR-999-3p	-0.33	-1.22	0.83	
+l(3)05822	FBtr0083595	lethal (3) 05822	965	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.33	-0.42	< 0.1	
+Frq1	FBtr0074545	Frequenin 1	4235	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.33	-0.55	0.60	
+nAChRbeta1	FBtr0073299	nicotinic Acetylcholine Receptor beta1	508	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.33	-0.33	0.14	
+CG32006	FBtr0089170	-	300	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.32	-0.53	< 0.1	
+scra	FBtr0088912	scraps	1042	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.32	-0.32	< 0.1	
+CG30122	FBtr0086660	-	3657	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.32	-0.32	< 0.1	
+DCP1	FBtr0072223	Decapping protein 1	824	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.32	-0.98	0.15	
+chrb	FBtr0076093	charybde	10882	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.32	-0.57	< 0.1	
+CG32091	FBtr0076106	-	1451	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.32	-0.32	< 0.1	
+axed	FBtr0076978	axundead	1115	1	0	0	1	1	0	1	0	dme-miR-999-3p	-0.32	-0.70	0.58	
+Pvr	FBtr0302147	PDGF- and VEGF-receptor related	4061	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.32	-0.33	< 0.1	
+CG6985	FBtr0084308	-	668	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.32	-0.97	< 0.1	
+l(2)SH0834	FBtr0080062	lethal (2) SH0834	3523	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.32	-0.48	< 0.1	
+Smg5	FBtr0080562	Smg5	2231	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.32	-0.32	0.34	2008, 2011
+Teh1	FBtr0082151	tipE homolog 1	636	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.31	-0.45	0.69	
+ced-6	FBtr0088548	ced-6	9369	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.31	-0.33	< 0.1	
+Cyp303a1	FBtr0343812	Cyp303a1	93	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.31	-0.31	< 0.1	
+CG10486	FBtr0305273	-	31	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.31	-0.32	< 0.1	
+Sara	FBtr0071641	Smad anchor for receptor activation	2608	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.30	-0.30	< 0.1	
+Dis3l2	FBtr0072486	Dis3 like 3'-5' exoribonuclease 2	2729	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.30	-0.35	< 0.1	
+Scsalpha	FBtr0073151	Succinyl coenzyme A synthetase alpha subunit	29044	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.30	-0.59	< 0.1	
+CG13813	FBtr0074827	-	340	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.30	-0.78	< 0.1	
+wgn	FBtr0342843	wengen	1889	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.30	-0.31	< 0.1	
+trx	FBtr0082947	trithorax	1275	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.30	-0.32	0.37	2008, 2011
+sm	FBtr0304656	smooth	18390	0	0	0	0	3	0	2	1	dme-miR-999-3p	-0.30	-4.91	< 0.1	
+VGlut	FBtr0077769	Vesicular glutamate transporter	1380	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.30	-0.31	< 0.1	
+CG13739	FBtr0088558	-	79	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.30	-0.31	< 0.1	
+CG9747	FBtr0085573	-	2573	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.30	-0.30	< 0.1	
+Cf2	FBtr0304887	Chorion factor 2	2450	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.30	-0.30	< 0.1	
+CG14186	FBtr0074870	-	1232	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.29	-0.29	< 0.1	
+tws	FBtr0082187	twins	7597	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.29	-0.56	0.66	2011
+CG14257	FBtr0299564	-	138	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.29	-0.32	< 0.1	
+Dhit	FBtr0340279	Double hit	1461	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.29	-0.88	0.67	
+Aplip1	FBtr0072626	APP-like protein interacting protein 1	343	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.29	-0.36	< 0.1	
+PMCA	FBtr0304050	plasma membrane calcium ATPase	6722	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.29	-0.32	< 0.1	
+CG31195	FBtr0302188	-	1456	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.29	-0.32	0.47	
+Gagr	FBtr0343534	Gag-related	315	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.29	-0.60	0.60	
+CG11357	FBtr0073310	-	7191	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.29	-0.49	0.46	2008, 2011
+Crk	FBtr0304871	Crk oncogene	4246	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.29	-0.29	< 0.1	
+CG46314	FBtr0452129	-	30436	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.28	-0.28	< 0.1	
+Als2	FBtr0078462	Amyotrophic lateral sclerosis 2	1044	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.28	-0.28	< 0.1	
+kud	FBtr0075339	kuduk	438	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.28	-0.72	< 0.1	
+CG45085	FBtr0344529	-	4636	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.28	-0.28	N/A	
+Pli	FBtr0112907	Pellino	2572	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.28	-0.40	0.24	
+CG31278	FBtr0344138	-	288	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.28	-0.28	N/A	
+CG10543	FBtr0071524	-	2126	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.28	-0.34	< 0.1	
+mei-P26	FBtr0333473	meiotic P26	18234	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.28	-1.88	0.21	
+CG2983	FBtr0335130	-	151	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.27	-0.31	< 0.1	
+exu	FBtr0086244	exuperantia	3385	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.27	-0.31	< 0.1	
+CG4615	FBtr0071020	-	809	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.27	-0.32	< 0.1	
+CanB2	FBtr0309866	Calcineurin B2	9473	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.27	-0.54	0.22	
+Su(dx)	FBtr0077824	Suppressor of deltex	2464	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.27	-0.40	0.56	2008, 2011
+CG7099	FBtr0080499	-	440	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.27	-0.30	< 0.1	
+CG43373	FBtr0307368	-	1802	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.27	-0.32	< 0.1	
+para	FBtr0303694	paralytic	11665	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.26	-0.27	< 0.1	
+CG3198	FBtr0070991	-	2497	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.26	-0.37	< 0.1	
+Lim1	FBtr0331732	LIM homeobox 1	1217	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.26	-0.47	0.55	
+CG44245	FBtr0339094	-	5064	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.26	-0.43	< 0.1	
+Tango11	FBtr0071746	Transport and Golgi organization 11	7853	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.26	-0.36	< 0.1	
+pre-mod(mdg4)-AE	FBtr0433511	-	467	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.26	-0.28	N/A	
+kibra	FBtr0344383	kibra	3182	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.26	-0.27	< 0.1	
+bru1	FBtr0331645	bruno 1	33322	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.25	-0.34	< 0.1	
+phtf	FBtr0086125	phtf	2925	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.25	-0.40	< 0.1	
+beat-IIIc	FBtr0080972	beat-IIIc	704	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.25	-0.46	0.46	
+cwo	FBtr0082246	clockwork orange	3100	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.25	-0.26	< 0.1	
+ci	FBtr0308074	cubitus interruptus	1104	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.25	-0.25	N/A	
+CG42795	FBtr0303601	-	51	0	0	0	0	2	1	0	1	dme-miR-999-3p	-0.25	-0.48	< 0.1	
+lqfR	FBtr0299515	liquid facets-Related	7314	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.25	-0.26	< 0.1	
+CG8671	FBtr0346464	-	3650	0	0	0	0	2	0	0	2	dme-miR-999-3p	-0.25	-0.25	< 0.1	
+CycD	FBtr0300391	Cyclin D	3168	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.24	-0.33	< 0.1	
+CG14505	FBtr0307186	-	245	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.24	-1.28	0.73	2011
+CG11714	FBtr0346859	-	5942	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.24	-0.29	< 0.1	
+sona	FBtr0290120	sol narae	1068	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.24	-0.32	< 0.1	
+jvl	FBtr0305690	javelin-like	1731	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.24	-0.28	0.70	2011
+Trf2	FBtr0300577	TATA box binding protein-related factor 2	6899	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.23	-0.35	0.21	
+kek6	FBtr0085821	kek6	304	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.23	-0.23	< 0.1	
+dlp	FBtr0075679	dally-like	827	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.23	-0.25	< 0.1	
+Baldspot	FBtr0075355	Baldspot	14125	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.23	-0.39	< 0.1	
+Kul	FBtr0339718	Kuzbanian-like	1472	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.23	-0.24	0.37	
+CG2278	FBtr0340143	-	272	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.23	-0.47	0.25	
+qvr	FBtr0114575	quiver	4221	0	0	0	0	2	0	0	2	dme-miR-999-3p	-0.23	-0.23	< 0.1	
+CG42526	FBtr0300855	-	167	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.23	-0.34	0.30	
+PRAS40	FBtr0347396	Proline-rich Akt substrate 40 kDa	381	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.23	-0.24	0.10	
+CG14314	FBtr0083560	-	444	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.23	-0.90	< 0.1	
+CG10492	FBtr0081148	-	2253	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.22	-0.27	0.44	2008, 2011
+scb	FBtr0087369	scab	1779	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.22	-0.23	< 0.1	
+CG8230	FBtr0088674	-	2489	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.22	-0.24	< 0.1	
+ps	FBtr0082037	pasilla	25869	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.22	-0.83	0.22	
+blow	FBtr0088952	blown fuse	1292	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.22	-0.51	0.15	
+HisCl1	FBtr0082472	Histamine-gated chloride channel subunit 1	59	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.22	-0.23	N/A	
+Pez	FBtr0079284	Pez	542	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.22	-0.22	< 0.1	
+CG16833	FBtr0304952	-	4993	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.21	-0.22	< 0.1	
+ckn	FBtr0345946	caskin	1657	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.21	-0.21	< 0.1	
+fkh	FBtr0345227	fork head	1272	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.21	-0.21	0.28	2008, 2011
+CG17715	FBtr0111247	-	5	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.21	-0.21	< 0.1	
+Prosap	FBtr0339764	Prosap	3286	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.21	-0.21	< 0.1	
+JhI-21	FBtr0089655	JhI-21	1273	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.21	-1.15	0.69	
+ImpL2	FBtr0333569	Ecdysone-inducible gene L2	20628	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.21	-0.36	0.35	
+Amph	FBtr0087828	Amphiphysin	5938	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.20	-0.22	< 0.1	
+sfl	FBtr0076968	sulfateless	1854	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.20	-0.22	< 0.1	
+CG31224	FBtr0083691	-	1583	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.20	-0.23	< 0.1	
+CG42503	FBtr0300637	-	62	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.20	-0.27	N/A	
+CG34347	FBtr0290046	-	268	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.20	-0.25	< 0.1	
+CG6686	FBtr0301171	-	694	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.20	-0.20	N/A	
+Drep2	FBtr0304798	DNA fragmentation factor-related protein 2	3477	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.20	-0.47	0.77	2008, 2011
+Csk	FBtr0299728	C-terminal Src kinase	3260	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.19	-0.25	< 0.1	
+CG17193	FBtr0083838	-	98	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.19	-0.20	0.23	
+CG17376	FBtr0344141	-	20998	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.19	-0.19	N/A	
+CG45093	FBtr0344568	-	29931	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.19	-0.38	0.11	
+pho	FBtr0089204	pleiohomeotic	2809	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.19	-0.27	< 0.1	
+Clamp	FBtr0100407	Chromatin-linked adaptor for MSL proteins	4371	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.19	-0.19	< 0.1	
+e(y)3	FBtr0334278	enhancer of yellow 3	2935	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.19	-0.23	0.17	
+CG18208	FBtr0083677	-	852	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.19	-0.47	0.72	
+CG32767	FBtr0331758	-	4016	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.19	-0.26	0.22	
+CG12404	FBtr0080430	-	3532	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.19	-0.69	0.55	
+CG3358	FBtr0336740	-	819	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.19	-1.02	< 0.1	
+CG16711	FBtr0076396	-	3202	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.18	-0.32	0.33	
+haf	FBtr0310017	hattifattener	321	1	1	0	0	1	0	1	0	dme-miR-999-3p	-0.18	-0.71	0.73	
+CG15365	FBtr0071357	-	80	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.18	-0.18	< 0.1	
+Mid1	FBtr0331983	Mid1	1531	1	1	0	0	1	0	1	0	dme-miR-999-3p	-0.18	-0.49	0.73	
+gish	FBtr0334606	gilgamesh	9460	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.18	-1.13	0.72	
+nmo	FBtr0076754	nemo	6074	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.18	-1.75	0.71	
+Dop2R	FBtr0070034	Dopamine 2-like receptor	83	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.18	-0.19	< 0.1	
+dhd	FBtr0070749	deadhead	86321	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.18	-0.44	< 0.1	
+kz	FBtr0070419	kurz	410	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.18	-0.44	0.15	
+dpr11	FBtr0336453	defective proboscis extension response 11	193	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.18	-0.24	< 0.1	
+Cbp53E	FBtr0087056	Calbindin 53E	2388	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.17	-0.38	< 0.1	
+sns	FBtr0088635	sticks and stones	537	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.17	-0.31	0.27	
+soti	FBtr0082940	scotti	903	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.17	-0.48	< 0.1	
+Dsp1	FBtr0089263	Dorsal switch protein 1	3986	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.17	-0.48	0.10	
+CG1358	FBtr0303287	-	1681	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.17	-0.54	0.67	
+CG6324	FBtr0074037	-	133	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.17	-0.23	< 0.1	
+CG33981	FBtr0100026	-	1389	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.17	-0.17	0.18	
+eIF4EHP	FBtr0300475	eukaryotic translation initiation factor 4E homologous protein	10402	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.16	-0.28	< 0.1	
+abd-A	FBtr0306337	abdominal A	508	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.16	-0.23	0.19	
+CG15160	FBtr0081070	-	980	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.16	-1.72	< 0.1	
+BuGZ	FBtr0308803	Bub3 interacting GLEBS and Zinc finger domain protein	2051	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.16	-0.20	< 0.1	
+CG43066	FBtr0304865	-	650	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.16	-0.64	< 0.1	
+Blimp-1	FBtr0345593	Blimp-1	2497	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.16	-0.18	< 0.1	
+wit	FBtr0073279	wishful thinking	107	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.16	-0.21	0.13	
+pre-mod(mdg4)-X	FBtr0303404	-	429	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.16	-0.16	N/A	
+dtn	FBtr0339696	detonator	3994	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.15	-0.31	0.77	
+CG31760	FBtr0331997	-	505	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.15	-0.17	0.54	
+CG5890	FBtr0339159	-	531	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.15	-0.25	< 0.1	
+Rh7	FBtr0076020	Rhodopsin 7	36	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.15	-0.16	< 0.1	
+Dp	FBtr0087741	DP transcription factor	4206	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.15	-0.28	< 0.1	
+dnr1	FBtr0071837	defense repressor 1	323	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.15	-0.58	0.76	
+CG8155	FBtr0087391	-	1074	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.15	-0.39	0.11	
+m-cup	FBtr0337043	mann-cup	3559	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.15	-0.93	< 0.1	
+krz	FBtr0085877	kurtz	3193	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.15	-0.56	< 0.1	
+caup	FBtr0075909	caupolican	239	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.14	-0.32	< 0.1	
+CG6175	FBtr0076183	-	537	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.14	-0.18	< 0.1	
+twe	FBtr0080855	twine	2000	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.14	-0.23	< 0.1	
+CG32700	FBtr0071374	-	2723	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.14	-0.22	< 0.1	
+CG42245	FBtr0290341	-	9300	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.14	-0.14	< 0.1	
+CG31712	FBtr0331636	-	2066	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.14	-0.25	0.24	
+ctp	FBtr0070707	cut up	28989	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.14	-0.17	< 0.1	
+Ncoa6	FBtr0307041	Nuclear receptor coactivator 6	2950	0	0	0	0	2	0	0	2	dme-miR-999-3p	-0.14	-0.14	< 0.1	
+CG6191	FBtr0330617	-	949	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.13	-0.32	0.23	
+CG30480	FBtr0332466	-	28	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.13	-0.35	< 0.1	
+norpA	FBtr0070651	no receptor potential A	7076	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.13	-0.23	0.45	
+Naa15-16	FBtr0074711	N(alpha)-acetyltransferase 15/16	4517	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.13	-0.36	< 0.1	
+APC7	FBtr0070946	Anaphase Promoting Complex subunit 7	1080	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.13	-0.13	< 0.1	
+CG2070	FBtr0336999	-	1671	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.13	-0.60	< 0.1	
+Vav	FBtr0074678	Vav guanine nucleotide exchange factor	1530	1	0	0	1	1	0	1	0	dme-miR-999-3p	-0.13	-0.50	0.75	2011
+Taf2	FBtr0076361	TBP-associated factor 2	195	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.13	-0.57	< 0.1	
+S6k	FBtr0333264	Ribosomal protein S6 kinase	12228	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.13	-0.20	< 0.1	
+CG4467	FBtr0084390	-	339	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.13	-0.13	0.14	
+tral	FBtr0332635	trailer hitch	23799	2	1	0	1	0	0	0	0	dme-miR-999-3p	-0.13	-0.68	0.81	
+CG4911	FBtr0345351	-	4697	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.13	-0.56	0.64	
+Nplp1	FBtr0110861	Neuropeptide-like precursor 1	703	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.13	-0.13	< 0.1	
+dbr	FBtr0078100	debra	1932	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.13	-0.13	< 0.1	
+CG4822	FBtr0100310	-	8545	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.13	-0.27	< 0.1	
+CG34251	FBtr0112445	-	21	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.13	-0.63	0.28	
+CG1513	FBtr0302176	-	3002	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.12	-0.26	0.34	2011
+ct	FBtr0331733	cut	3917	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.12	-1.32	0.71	
+CG8908	FBtr0339542	-	548	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.12	-0.22	< 0.1	
+dlg1	FBtr0112812	discs large 1	4930	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.12	-0.17	0.16	
+CG43143	FBtr0305351	-	1530	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.12	-0.18	< 0.1	
+Dgk	FBtr0308589	Diacyl glycerol kinase	699	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.12	-0.83	0.73	
+bchs	FBtr0079144	blue cheese	867	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.12	-0.19	< 0.1	
+Ca-beta	FBtr0343615	Ca2+-channel-protein-beta-subunit	484	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.12	-0.26	< 0.1	
+Su(Tpl)	FBtr0302047	Su(Tpl)	21037	1	0	0	1	1	0	1	0	dme-miR-999-3p	-0.12	-0.49	0.70	
+pre-mod(mdg4)-Y	FBtr0433509	-	649	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.12	-0.18	N/A	
+CG10011	FBtr0085319	-	420	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.12	-0.19	< 0.1	
+Hk	FBtr0331336	Hyperkinetic	3490	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.12	-0.47	< 0.1	
+CG31323	FBtr0084988	-	6002	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.12	-1.23	0.73	
+Vrp1	FBtr0071791	Verprolin 1	1505	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.12	-0.12	< 0.1	
+PGRP-SC1b	FBtr0339336	Peptidoglycan recognition protein SC1b	486	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.12	-0.47	0.79	
+CG9368	FBtr0336786	-	356	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.12	-0.12	< 0.1	
+CG9121	FBtr0079032	-	81	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.11	-0.26	< 0.1	
+pigs	FBtr0308653	pickled eggs	4428	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.11	-0.39	0.71	
+jing	FBtr0332950	jing	746	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.11	-0.16	< 0.1	
+Ubx	FBtr0083347	Ultrabithorax	526	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.11	-0.17	0.33	2008, 2011
+ena	FBtr0340450	enabled	6787	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.11	-0.11	< 0.1	
+hh	FBtr0100506	hedgehog	73	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.11	-0.48	0.36	2008, 2011
+Hex-A	FBtr0333335	Hexokinase A	13973	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.11	-0.16	0.13	
+pain	FBtr0072417	painless	822	1	0	0	1	1	0	0	1	dme-miR-999-3p	-0.11	-0.91	0.79	
+Ziz	FBtr0330721	Zizimin	348	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.11	-0.11	< 0.1	
+Tob	FBtr0301652	Tob	4649	0	0	0	0	3	0	1	2	dme-miR-999-3p	-0.11	-0.15	< 0.1	
+Frq2	FBtr0301628	Frequenin 2	877	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.11	-0.12	< 0.1	
+Cdk12	FBtr0078358	Cyclin-dependent kinase 12	2386	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.11	-0.15	< 0.1	
+CG2865	FBtr0332962	-	8041	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.11	-0.18	< 0.1	
+CG8786	FBtr0331862	-	1248	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.11	-0.12	< 0.1	
+CG7218	FBtr0344646	-	1836	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.11	-0.30	< 0.1	
+CG11883	FBtr0339461	-	982	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.11	-0.19	0.41	
+Ythdc1	FBtr0073078	YTH domain containing 1	2951	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.10	-0.80	0.28	
+CG31674	FBtr0081423	-	771	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.10	-0.22	N/A	
+Lrp4	FBtr0301666	LDL receptor related protein 4	524	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.10	-0.12	< 0.1	
+CG31342	FBtr0113404	-	1044	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.10	-0.10	< 0.1	
+CG13197	FBtr0345619	-	1716	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.10	-0.84	0.73	
+sdt	FBtr0089974	stardust	5260	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.10	-0.11	< 0.1	
+Archease	FBtr0084116	Archease	2869	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.10	-0.88	< 0.1	
+Gfrl	FBtr0346115	Glial cell line-derived neurotrophic family receptor-like	840	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.10	-0.10	< 0.1	
+CG1718	FBtr0306679	-	49	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.10	-0.10	< 0.1	
+Dic1	FBtr0346113	Dicarboxylate carrier 1	4595	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.10	-0.28	< 0.1	
+Mnn1	FBtr0110978	Menin 1	1892	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.10	-0.16	< 0.1	
+mmd	FBtr0307540	mind-meld	1969	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.10	-0.10	< 0.1	
+Rop	FBtr0310632	Ras opposite	4063	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.10	-0.25	< 0.1	
+CG13126	FBtr0343747	-	113	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.10	-0.57	< 0.1	
+Atpalpha	FBtr0089512	Na pump alpha subunit	81635	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.10	-0.32	0.56	
+CG31145	FBtr0290056	-	1653	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.10	-0.16	< 0.1	
+AstC-R2	FBtr0332867	Allatostatin C receptor 2	47	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.10	-0.10	< 0.1	
+CG9932	FBtr0310277	-	7674	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.09	-0.12	< 0.1	
+Prm	FBtr0076595	Paramyosin	22679	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.09	-0.14	< 0.1	
+Sytbeta	FBtr0299848	Synaptotagmin beta	130	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.09	-0.11	< 0.1	
+eag	FBtr0073955	ether a go-go	928	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.09	-0.09	0.20	
+SerRS-m	FBtr0334589	"Seryl-tRNA synthetase, mitochondrial"	699	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.09	-0.46	< 0.1	
+CG31296	FBtr0334558	-	312	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.09	-1.24	0.72	2011
+svr	FBtr0070084	silver	3547	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.09	-0.12	0.58	
+Lrrk	FBtr0112788	Leucine-rich repeat kinase	688	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.09	-0.09	< 0.1	
+roq	FBtr0333265	roquin	2827	2	1	1	0	1	0	1	0	dme-miR-999-3p	-0.08	-1.53	0.81	
+ArfGAP1	FBtr0075981	ADP-ribosylation factor GTPase activating protein 1	1063	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.08	-0.46	0.12	
+Rgl	FBtr0075793	Ral guanine nucleotide dissociation stimulator-like	1511	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.08	-0.09	< 0.1	
+Hr39	FBtr0081479	Hormone receptor-like in 39	1215	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.08	-0.19	< 0.1	
+Or63a	FBtr0301497	Odorant receptor 63a	17	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.08	-0.11	N/A	
+ssx	FBtr0339772	sister-of-Sex-lethal	5338	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.08	-0.08	< 0.1	
+pcx	FBtr0332381	pecanex	1009	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.08	-0.24	0.24	
+TORIP	FBtr0333878	Torsin interacting protein	709	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.08	-1.02	< 0.1	
+DNApol-iota	FBtr0339606	DNApol-iota	899	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.08	-0.13	< 0.1	
+CG42817	FBtr0332356	-	641	1	0	1	0	1	0	1	0	dme-miR-999-3p	-0.08	-0.14	0.25	
+CHES-1-like	FBtr0310287	Checkpoint suppressor 1-like	5169	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.08	-0.13	< 0.1	
+Cad87A	FBtr0082513	Cadherin 87A	652	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.07	-0.07	< 0.1	
+CASK	FBtr0301327	CASK	7725	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.07	-0.21	< 0.1	
+sing	FBtr0074318	singles bar	13	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.07	-0.20	< 0.1	
+Rab10	FBtr0077337	Rab10	7745	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.07	-0.07	0.20	
+Ptp61F	FBtr0072719	Protein tyrosine phosphatase 61F	3783	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.07	-0.40	0.30	
+tim	FBtr0333253	timeless	202	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.07	-0.14	< 0.1	
+wdp	FBtr0071850	windpipe	5891	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.07	-0.16	< 0.1	
+Ac76E	FBtr0074897	Adenylyl cyclase 76E	1170	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.07	-0.10	< 0.1	
+NijB	FBtr0075065	Ninjurin B	26	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.07	-0.38	< 0.1	
+tutl	FBtr0333485	turtle	7572	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.06	-0.08	0.11	
+Cyp4s3	FBtr0074028	Cyp4s3	788	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.06	-0.40	0.59	2011
+cdc14	FBtr0301331	cell division cycle 14	1322	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.06	-0.70	< 0.1	
+BicD	FBtr0305688	Bicaudal D	3031	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.06	-0.07	< 0.1	
+CG3961	FBtr0075077	-	4236	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.06	-0.10	< 0.1	
+SMSr	FBtr0076870	SMSr	1683	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.06	-0.26	< 0.1	
+Usf	FBtr0308917	Usf	1078	1	0	0	1	1	0	0	1	dme-miR-999-3p	-0.06	-0.63	0.77	
+nom	FBtr0346112	numerous disordered muscles	1100	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.06	-0.10	< 0.1	
+CG5776	FBtr0329925	-	620	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.06	-0.12	< 0.1	
+Spn27A	FBtr0333351	Serpin 27A	4620	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.06	-0.89	< 0.1	
+CG45092	FBtr0344561	-	946	0	0	0	0	2	0	0	2	dme-miR-999-3p	-0.06	-0.06	< 0.1	
+CG12531	FBtr0074788	-	457	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.06	-0.06	< 0.1	
+CG12236	FBtr0070826	-	567	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.06	-0.27	< 0.1	
+SLO2	FBtr0329872	slowpoke 2	548	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.06	-0.17	0.10	
+l(3)L1231	FBtr0344158	lethal (3) L1231	5192	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.06	-0.06	< 0.1	
+REPTOR	FBtr0084672	Repressed by TOR	5999	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.05	-0.19	< 0.1	
+CG31814	FBtr0080580	-	128	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.05	-0.07	< 0.1	
+Ptpmeg2	FBtr0071407	Protein tyrosine phosphatase Meg2	8708	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.05	-0.20	0.28	
+hubl	FBtr0339351	hug-bell	1479	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.05	-0.05	N/A	
+Sf3b2	FBtr0335484	Splicing factor 3b subunit 2	1776	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.05	-0.71	< 0.1	
+stnA	FBtr0301618	stoned A	3172	0	0	0	0	3	0	2	1	dme-miR-999-3p	-0.05	-0.05	< 0.1	
+tgo	FBtr0082005	tango	1206	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.05	-0.07	< 0.1	
+CG31928	FBtr0334817	-	836	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.05	-0.24	< 0.1	
+CG1441	FBtr0088448	-	470	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.05	-0.58	< 0.1	
+rg	FBtr0344647	rugose	4148	1	1	0	0	1	0	1	0	dme-miR-999-3p	-0.05	-0.05	0.41	
+alpha-Est9	FBtr0302355	alpha-Esterase-9	1301	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.05	-0.05	0.13	
+CG6123	FBtr0307553	-	84	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.05	-0.06	0.48	2011
+Sfp33A4	FBtr0301936	Seminal fluid protein 33A4	835	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.04	-0.96	< 0.1	
+nrv3	FBtr0081520	nervana 3	23615	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.04	-0.35	< 0.1	
+CG13102	FBtr0309842	-	349	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.04	-0.45	< 0.1	
+CG15465	FBtr0344669	-	4522	1	1	0	0	1	0	1	0	dme-miR-999-3p	-0.04	-0.05	< 0.1	
+CG17652	FBtr0333543	-	781	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.04	-0.63	< 0.1	
+Rbp9	FBtr0100468	RNA-binding protein 9	6228	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.04	-0.71	0.67	2008, 2011
+CG9132	FBtr0074353	-	4410	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.04	-0.22	< 0.1	
+CG30497	FBtr0331966	-	30168	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.04	-0.08	< 0.1	
+zyd	FBtr0340198	zydeco	2683	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.04	-0.97	< 0.1	
+Nlg3	FBtr0333927	Neuroligin 3	471	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.04	-0.04	< 0.1	
+rno	FBtr0072532	rhinoceros	1765	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.04	-0.05	0.11	
+brat	FBtr0081160	brain tumor	7746	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.04	-0.26	< 0.1	
+enc	FBtr0073153	encore	6282	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.04	-0.05	< 0.1	
+Afti	FBtr0310001	Aftiphilin	1200	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.04	-0.07	< 0.1	
+tipE	FBtr0073220	temperature-induced paralytic E	1648	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.04	-0.30	< 0.1	
+fend	FBtr0333304	forked end	1855	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.04	-0.47	0.13	
+Antp	FBtr0081647	Antennapedia	359	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.04	-0.19	< 0.1	
+Reph	FBtr0077497	Regulator of eph expression	3602	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.04	-0.07	< 0.1	
+Ipk1	FBtr0113368	Ipk1	279	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.04	-0.78	< 0.1	
+CG13743	FBtr0339287	-	374	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.04	-0.04	< 0.1	
+bab1	FBtr0072642	bric a brac 1	168	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.03	-0.04	< 0.1	
+unc-104	FBtr0087079	uncoordinated-104	907	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.03	-0.04	< 0.1	
+CG5877	FBtr0074001	-	505	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.03	-0.06	< 0.1	
+CG4820	FBtr0113221	-	1157	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.03	-1.11	N/A	
+Elk	FBtr0340287	Eag-like K[+] channel	160	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.03	-0.03	< 0.1	
+CG15127	FBtr0086482	-	259	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.03	-0.59	< 0.1	
+CG5189	FBtr0299805	-	3138	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.03	-0.45	< 0.1	
+CG10019	FBtr0273188	-	143	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.03	-0.03	< 0.1	
+CG6414	FBtr0445312	-	53	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.03	-0.36	< 0.1	
+FASN1	FBtr0077659	Fatty acid synthase 1	55564	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.03	-0.03	< 0.1	
+Tnpo	FBtr0077000	Transportin	5078	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.03	-0.03	< 0.1	
+KrT95D	FBtr0084507	Krueppel target at 95D	4532	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.03	-0.10	< 0.1	
+Usp2	FBtr0339506	Ubiquitin specific protease 2	8464	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.03	-0.10	< 0.1	
+stnB	FBtr0302020	stoned B	3167	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.03	-0.03	< 0.1	
+Asator	FBtr0300344	Asator	3082	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.03	-0.03	< 0.1	
+CG32206	FBtr0089796	-	658	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.03	-0.03	< 0.1	
+CG5746	FBtr0334603	-	7934	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.03	-0.68	< 0.1	
+mura	FBtr0082116	murashka	4295	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.03	-0.36	0.36	
+Sgt	FBtr0080982	small glutamine-rich tetratricopeptide containing protein	8333	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.03	-0.46	< 0.1	
+Pur-alpha	FBtr0089993	Purine-rich binding protein-alpha	3069	0	0	0	0	2	0	2	0	dme-miR-999-3p	-0.03	-0.04	< 0.1	
+CG2616	FBtr0339179	-	307	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.03	-0.83	< 0.1	
+pum	FBtr0333667	pumilio	8162	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.03	-0.06	< 0.1	
+CG1888	FBtr0310032	-	888	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.03	-0.34	0.73	
+CG10947	FBtr0081369	-	1250	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.03	-0.24	0.41	
+Mps1	FBtr0083478	Monopolar spindle 1	1374	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.03	-1.07	< 0.1	
+aos	FBtr0075408	argos	1669	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.03	-0.05	< 0.1	
+CG43064	FBtr0345119	-	267	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.03	-0.29	< 0.1	
+Trax	FBtr0347564	Translin associated factor X	862	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.03	-1.48	< 0.1	
+frma	FBtr0346264	fra mauro	1050	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.02	-1.35	0.71	
+stx	FBtr0333017	stuxnet	3682	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.02	-0.07	0.27	
+CG5346	FBtr0084289	-	4324	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.02	-0.49	0.16	
+msi	FBtr0333664	musashi	5517	0	0	0	0	3	0	3	0	dme-miR-999-3p	-0.02	-0.06	0.17	
+Hydr2	FBtr0308315	alpha/beta hydrolase2	955	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.36	< 0.1	
+PEK	FBtr0078770	pancreatic eIF-2alpha kinase	3248	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.02	-0.14	< 0.1	
+Nop60B	FBtr0300861	Nucleolar protein at 60B	21735	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.02	-0.24	< 0.1	
+Adar	FBtr0100557	Adenosine deaminase acting on RNA	1377	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.02	-0.04	< 0.1	
+CG5104	FBtr0078209	-	2848	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.02	-1.43	< 0.1	
+Top1	FBtr0100294	Topoisomerase 1	5699	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.02	-0.03	< 0.1	
+CoRest	FBtr0302862	CoRest	1692	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.02	-0.03	< 0.1	
+CG5327	FBtr0086707	-	1074	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.02	-0.15	N/A	
+Cam	FBtr0304963	Calmodulin	158948	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.34	< 0.1	
+dah	FBtr0074007	discontinuous actin hexagon	2584	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.02	-0.38	< 0.1	
+Obp57a	FBtr0086294	Odorant-binding protein 57a	1937	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.02	-0.38	< 0.1	
+GlyT	FBtr0301162	Glycine transporter	195	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.02	-0.02	0.39	2011
+Rbp6	FBtr0310006	RNA-binding protein 6	8056	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+klar	FBtr0110818	klarsicht	3259	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+CG32270	FBtr0100421	-	6	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+CG14042	FBtr0110984	-	1387	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+Inx2	FBtr0332314	Innexin 2	10473	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+Prestin	FBtr0075153	Prestin	978	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+SRPK	FBtr0087384	SR Protein Kinase	3413	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+CG11768	FBtr0308890	-	245	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+CG45084	FBtr0344488	-	22341	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	N/A	
+CG43897	FBtr0332832	-	27145	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	N/A	
+Dab	FBtr0075318	Disabled	2054	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	0.11	
+Ac13E	FBtr0100142	Adenylyl cyclase 35C	2198	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+rst	FBtr0343758	roughest	627	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+CG4896	FBtr0335395	-	1692	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	N/A	
+CG8065	FBtr0345693	-	878	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.02	-0.65	0.72	
+DIP-alpha	FBtr0333795	Dpr-interacting protein alpha	252	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.02	-0.02	0.42	
+B52	FBtr0082804	B52	13903	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+bol	FBtr0331858	boule	7238	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+Nf1	FBtr0100113	Neurofibromin 1	1487	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	0.15	
+Mical	FBtr0347211	Molecule interacting with CasL	839	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	N/A	
+MRP	FBtr0090013	Multidrug-Resistance like Protein 1	9157	2	0	1	1	2	0	1	1	dme-miR-999-3p	-0.02	-3.71	0.72	
+Gug	FBtr0076616	Grunge	3198	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.02	-0.03	0.46	
+ttv	FBtr0333164	tout-velu	1037	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	0.14	
+CG14932	FBtr0300384	-	401	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.88	< 0.1	
+CG42346	FBtr0333178	-	665	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.02	-0.02	0.48	
+CG42663	FBtr0302644	-	1284	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+HDAC4	FBtr0333331	Histone deacetylase 4	4759	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.02	-0.22	0.26	
+LRR	FBtr0088939	Leucine-rich repeat	3125	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.02	-0.88	0.73	
+CG3262	FBtr0334168	-	2570	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.21	< 0.1	
+Thd1	FBtr0345197	Thd1	5252	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.02	-0.27	0.14	
+Syn	FBtr0100472	Synapsin	3271	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+ND-20	FBtr0340417	NADH dehydrogenase (ubiquinone) 20 kDa subunit	22019	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.41	< 0.1	
+CrebA	FBtr0075558	Cyclic-AMP response element binding protein A	5077	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+r-cup	FBtr0077269	ryder cup	694	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.02	-0.83	< 0.1	
+CG30463	FBtr0087112	-	1467	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+CG3638	FBtr0336978	-	5870	2	1	0	1	0	0	0	0	dme-miR-999-3p	-0.02	-0.89	0.82	
+Hers	FBtr0100839	Histone gene-specific Epigenetic Repressor in late S phase	766	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+slo	FBtr0301582	slowpoke	3069	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	< 0.1	
+CG33521	FBtr0091473	-	2377	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.02	-0.73	< 0.1	
+fz2	FBtr0332735	frizzled 2	2655	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.02	-0.29	< 0.1	
+CG8034	FBtr0074684	-	4897	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.27	< 0.1	
+Mulk	FBtr0079986	Multi-substrate lipid kinase	943	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.02	-0.29	N/A	
+Nmda1	FBtr0089874	N-methyl-D-aspartate receptor-associated protein	12607	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.02	-0.27	< 0.1	
+mim	FBtr0332942	missing-in-metastasis	2394	0	0	0	0	2	1	0	1	dme-miR-999-3p	-0.02	-0.78	< 0.1	
+CycG	FBtr0333328	Cyclin G	35147	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.02	-0.15	< 0.1	
+CG42322	FBtr0305057	-	1124	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.02	0.15	
+fne	FBtr0113493	found in neurons	7004	1	0	1	0	1	0	1	0	dme-miR-999-3p	-0.02	-0.04	0.35	
+tna	FBtr0301658	tonalli	5061	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.24	0.22	
+Pa1	FBtr0073456	PTIP associated 1	800	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.01	-0.52	0.55	
+CG12998	FBtr0346183	-	2675	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.01	-1.57	< 0.1	
+CG34449	FBtr0308591	-	3095	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	< 0.1	
+CG17841	FBtr0071444	-	15387	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.01	-0.09	0.37	
+Gfat1	FBtr0113687	Glutamine:fructose-6-phosphate aminotransferase 1	2030	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.31	< 0.1	
+CG5611	FBtr0344340	-	1132	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.01	-0.92	< 0.1	
+CG9986	FBtr0085304	-	1667	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.39	0.12	
+CG17786	FBtr0084572	-	98	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	0.10	
+RanBPM	FBtr0088263	Ran-binding protein M	2893	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	< 0.1	
+east	FBtr0307290	enhanced adult sensory threshold	3402	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.04	< 0.1	
+Atf6	FBtr0086079	Atf6	4797	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.01	-0.60	< 0.1	
+Slob	FBtr0330704	Slowpoke binding protein	4018	0	0	0	0	2	0	1	1	dme-miR-999-3p	-0.01	-0.21	< 0.1	
+Camta	FBtr0339382	Calmodulin-binding transcription activator	608	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.18	< 0.1	
+dysc	FBtr0330414	dyschronic	2188	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	< 0.1	
+Cul3	FBtr0302156	Cullin 3	5455	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.01	-0.33	0.39	
+Eb1	FBtr0332939	Eb1	9463	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.28	< 0.1	
+CG11537	FBtr0073116	-	4650	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	< 0.1	
+RhoGAP100F	FBtr0304594	Rho GTPase activating protein at 100F	232	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	< 0.1	
+Tsp33B	FBtr0080265	Tetraspanin 33B	407	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-1.05	< 0.1	
+Pka-C1	FBtr0079851	"Protein kinase, cAMP-dependent, catalytic subunit 1"	13928	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	0.18	
+fmt	FBtr0331790	fiery mountain	5266	2	0	1	1	0	0	0	0	dme-miR-999-3p	-0.01	-0.60	0.63	
+CG12129	FBtr0088395	-	766	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.47	< 0.1	
+by	FBtr0301093	blistery	698	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.01	0.25	
+acj6	FBtr0305191	abnormal chemosensory jump 6	373	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.01	< 0.1	
+RhoGAP18B	FBtr0299624	Rho GTPase activating protein at 18B	4713	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.01	< 0.1	
+CG31550	FBtr0392903	-	2462	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.01	N/A	
+CG10425	FBtr0084867	-	4848	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.01	-0.70	0.31	
+CG10469	FBtr0077064	-	462	1	1	0	0	0	0	0	0	dme-miR-999-3p	-0.01	-0.63	< 0.1	
+cnn	FBtr0087704	centrosomin	1554	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	< 0.1	
+CG3822	FBtr0083987	-	152	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.01	-0.30	0.35	
+CG11155	FBtr0333701	-	1277	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.21	< 0.1	
+MTA1-like	FBtr0290206	Metastasis associated 1-like	4415	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.01	-1.40	< 0.1	
+Set2	FBtr0073779	SET domain containing 2	1203	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.20	< 0.1	
+CG11138	FBtr0331718	-	3943	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	< 0.1	
+EndoGI	FBtr0331443	Endonuclease G inhibitor	8587	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.53	< 0.1	
+Mob2	FBtr0089332	Mob2	3643	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.03	< 0.1	
+Ent2	FBtr0343158	Equilibrative nucleoside transporter 2	8402	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.27	< 0.1	
+Imp	FBtr0073414	IGF-II mRNA-binding protein	12893	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-1.15	0.13	
+Sin3A	FBtr0087889	Sin3A	3445	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.01	N/A	
+mei-218	FBtr0299823	meiotic 218	1304	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.08	< 0.1	
+CG3756	FBtr0078994	-	843	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.20	< 0.1	
+kis	FBtr0078144	kismet	5158	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.01	< 0.1	
+CG14110	FBtr0075844	-	136	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.31	< 0.1	
+DCP2	FBtr0304975	Decapping protein 2	4315	1	0	1	0	0	0	0	0	dme-miR-999-3p	-0.01	-0.23	0.31	
+mamo	FBtr0346003	maternal gene required for meiosis	8470	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.03	< 0.1	
+CG9173	FBtr0072720	-	1926	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.09	< 0.1	
+Plc21C	FBtr0078049	Phospholipase C at 21C	1893	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	< 0.1	
+CG17683	FBtr0111300	-	2864	0	0	0	0	3	1	2	0	dme-miR-999-3p	-0.01	-0.97	< 0.1	
+Rab2	FBtr0086124	Rab2	8274	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.24	< 0.1	
+Prosbeta5R2	FBtr0340183	Proteasome beta5 subunit-related 2	575	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.01	-0.80	< 0.1	
+CG30460	FBtr0087010	-	1391	0	0	0	0	1	1	0	0	dme-miR-999-3p	-0.01	-0.75	< 0.1	
+Nhe2	FBtr0306016	Na[+]/H[+] hydrogen exchanger 2	735	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	< 0.1	
+mRpL21	FBtr0346548	mitochondrial ribosomal protein L21	2556	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.18	< 0.1	
+mle	FBtr0100576	maleless	391	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.30	< 0.1	
+Gmap	FBtr0343525	Golgi microtubule-associated protein	1592	0	0	0	0	1	0	0	1	dme-miR-999-3p	-0.01	-0.14	< 0.1	
+CG42541	FBtr0332388	-	948	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	< 0.1	
+CG7970	FBtr0346821	-	5910	1	0	0	1	0	0	0	0	dme-miR-999-3p	-0.01	-0.55	0.64	
+Rim	FBtr0336717	Rab3 interacting molecule	770	0	0	0	0	1	0	1	0	dme-miR-999-3p	-0.01	-0.02	< 0.1	
+CG10466	FBtr0081291	-	1352	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.76	< 0.1	
+pen-2	FBtr0340331	presenilin enhancer	3471	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.11	< 0.1	
+Mgstl	FBtr0077242	Microsomal glutathione S-transferase-like	1976	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.61	< 0.1	
+CG31473	FBtr0081749	-	3009	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.59	< 0.1	
+Shaw	FBtr0089274	Shaker cognate w	318	0	0	0	0	2	0	2	0	dme-miR-999-3p	0	-0.04	0.16	
+CG9016	FBtr0079151	-	39118	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.42	0.14	
+cu	FBtr0113219	curled	4986	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.44	< 0.1	
+fog	FBtr0333182	folded gastrulation	2198	1	0	0	1	0	0	0	0	dme-miR-999-3p	0	-0.30	0.80	
+Hsl	FBtr0086270	Hormone-sensitive lipase	1433	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.32	< 0.1	
+CG12054	FBtr0335408	-	5419	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	< 0.1	
+CG42668	FBtr0302673	-	2489	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.18	< 0.1	
+uzip	FBtr0345678	unzipped	2389	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.31	< 0.1	
+Tsp66E	FBtr0076506	Tetraspanin 66E	5687	0	0	0	0	2	1	0	1	dme-miR-999-3p	0	-1.05	< 0.1	
+CG45263	FBtr0345457	-	1465	1	0	0	1	0	0	0	0	dme-miR-999-3p	0	-0.14	0.47	
+CG10097	FBtr0347004	-	30083	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	N/A	
+CG1690	FBtr0336936	-	1429	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.14	< 0.1	
+SpdS	FBtr0082078	Spermidine Synthase	5623	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.18	< 0.1	
+mus205	FBtr0088831	mutagen-sensitive 205	640	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-1.12	< 0.1	
+alphaSnap	FBtr0074840	alpha Soluble NSF attachment protein	7858	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.07	< 0.1	
+CG6420	FBtr0339242	-	1624	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.03	< 0.1	
+lmgA	FBtr0333419	lemming A	1451	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-1.47	< 0.1	
+CG4884	FBtr0344620	-	1421	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-1.33	< 0.1	
+CG3226	FBtr0070993	-	5339	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.35	0.18	
+spoon	FBtr0070795	spoonbill	11697	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	< 0.1	
+Slh	FBtr0335169	SLY-1 homologous	2190	1	0	0	1	0	0	0	0	dme-miR-999-3p	0	-0.67	0.76	2011
+CG14439	FBtr0070960	-	1231	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.42	< 0.1	
+kuk	FBtr0083397	kugelkern	6934	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.91	< 0.1	
+CG4080	FBtr0309506	-	485	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.25	< 0.1	
+CG6805	FBtr0086966	-	2981	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.19	< 0.1	
+Octbeta1R	FBtr0100322	Octopamine beta1 receptor	254	1	0	0	1	0	0	0	0	dme-miR-999-3p	0	-0.30	0.47	
+ana1	FBtr0084645	anastral spindle 1	881	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.30	< 0.1	
+Calx	FBtr0344317	Na/Ca-exchange protein	3653	1	1	0	0	0	0	0	0	dme-miR-999-3p	0	-1.35	0.73	
+lmgB	FBtr0333420	lemming B	1447	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.84	< 0.1	
+CG9948	FBtr0333081	-	1178	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.15	N/A	
+barr	FBtr0081348	barren	1591	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.50	< 0.1	
+ap	FBtr0086058	apterous	4235	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	0.13	
+Atg4a	FBtr0332569	Autophagy-related 4a	3436	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.07	0.10	
+Rsf1	FBtr0333411	Repressor splicing factor 1	1904	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.38	< 0.1	
+CG6610	FBtr0077048	-	3103	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.51	< 0.1	
+CG32647	FBtr0346126	-	5765	1	1	0	0	1	0	0	1	dme-miR-999-3p	0	-3.70	0.56	
+MtnE	FBtr0346342	Metallothionein E	3316	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-1.84	< 0.1	
+dpr21	FBtr0334939	defective proboscis extension response 21	1056	0	0	0	0	2	0	1	1	dme-miR-999-3p	0	-0.48	< 0.1	
+Debcl	FBtr0086108	Death executioner Bcl-2	2985	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.47	< 0.1	
+IA-2	FBtr0301417	IA-2 protein tyrosine phosphatase	24640	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	< 0.1	
+Ntf-2	FBtr0333762	Nuclear transport factor-2	10694	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.15	< 0.1	
+ND-13A	FBtr0345333	NADH dehydrogenase (ubiquinone) 13 kDa A subunit	21930	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.54	< 0.1	
+CG17107	FBtr0336848	-	3408	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-1.52	< 0.1	
+CG40160	FBtr0333380	-	1419	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.21	< 0.1	
+CG31468	FBtr0334769	-	16093	1	0	0	1	0	0	0	0	dme-miR-999-3p	0	-0.69	0.53	
+CG42237	FBtr0073722	-	705	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.45	< 0.1	
+RpL24	FBtr0342637	Ribosomal protein L24	81981	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.52	< 0.1	
+CG42487	FBtr0300439	-	1439	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.42	< 0.1	
+cic	FBtr0334305	capicua	6555	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	0.12	
+CG9471	FBtr0082160	-	2587	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.12	< 0.1	
+CG30291	FBtr0071549	-	3008	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.42	< 0.1	
+Poxm	FBtr0111026	Pox meso	161	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	< 0.1	
+inv	FBtr0345673	invected	143	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.03	< 0.1	
+Or59c	FBtr0072020	Odorant receptor 59c	5	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.72	< 0.1	
+Spase22-23	FBtr0305044	Spase 22/23-subunit	10204	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.17	< 0.1	
+CG34215	FBtr0112408	-	2210	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.51	< 0.1	
+CG12279	FBtr0082656	-	2618	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.10	N/A	
+Epac	FBtr0329849	Exchange protein directly activated by cAMP	917	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	< 0.1	
+CG17528	FBtr0111277	-	4295	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.26	< 0.1	
+Cyp312a1	FBtr0332863	Cyp312a1	3066	1	0	0	1	0	0	0	0	dme-miR-999-3p	0	-0.50	0.76	2011
+CG8311	FBtr0087121	-	1778	1	1	0	0	0	0	0	0	dme-miR-999-3p	0	-1.16	0.66	
+Ada2b	FBtr0334315	transcriptional Adaptor 2b	4128	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.13	< 0.1	
+Ugt	FBtr0075064	UDP-glucose-glycoprotein glucosyltransferase	3169	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.44	< 0.1	
+CtBP	FBtr0334516	C-terminal Binding Protein	11369	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.37	< 0.1	
+CG32181	FBtr0301018	-	1368	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.27	< 0.1	
+CG12025	FBtr0345381	-	7471	1	0	1	0	0	0	0	0	dme-miR-999-3p	0	-0.02	0.21	
+ple	FBtr0345585	pale	9930	0	0	0	0	2	0	1	1	dme-miR-999-3p	0	-0.13	0.16	
+RpS26	FBtr0346591	Ribosomal protein S26	136734	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.36	< 0.1	
+Rbm13	FBtr0346163	RNA-binding motif protein 13	1525	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.08	< 0.1	
+CG10562	FBtr0084851	-	6156	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.92	< 0.1	
+Atg13	FBtr0081843	Autophagy-related 13	3078	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	< 0.1	
+Meics	FBtr0075791	Meiotic central spindle	877	1	1	0	0	0	0	0	0	dme-miR-999-3p	0	-0.41	< 0.1	
+mthl14	FBtr0072501	methuselah-like 14	670	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	N/A	
+key	FBtr0072428	kenny	2774	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.71	< 0.1	
+Ggamma30A	FBtr0079797	G protein subunit gamma at 30A	8169	0	0	0	0	2	0	1	1	dme-miR-999-3p	0	-1.31	< 0.1	
+Art7	FBtr0114564	Arginine methyltransferase 7	723	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	< 0.1	
+CG7470	FBtr0309869	-	5365	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	< 0.1	
+fbl	FBtr0078187	fumble	3496	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.06	< 0.1	
+CG9864	FBtr0086320	-	11	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.58	< 0.1	
+CG9246	FBtr0081472	-	2049	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	N/A	
+HP1c	FBtr0084309	Heterochromatin Protein 1c	547	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	N/A	
+CG18480	FBtr0343717	-	792	1	0	1	0	0	0	0	0	dme-miR-999-3p	0	-0.02	0.46	
+MetRS-m	FBtr0347148	"Methionyl-tRNA synthetase, mitochondrial"	704	1	0	1	0	0	0	0	0	dme-miR-999-3p	0	-0.02	0.33	
+CG7839	FBtr0076207	-	1424	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	< 0.1	
+Prp8	FBtr0088016	pre-mRNA processing factor 8	5313	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.25	< 0.1	
+CG31111	FBtr0084790	-	659	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.25	< 0.1	
+RpS28b	FBtr0343411	Ribosomal protein S28b	130357	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.51	< 0.1	
+CG9005	FBtr0300945	-	4620	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.23	< 0.1	
+CG2747	FBtr0081817	-	2616	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.14	N/A	
+Dys	FBtr0334562	Dystrophin	3702	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	0.12	
+CG1620	FBtr0300830	-	3062	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	< 0.1	
+CG4768	FBtr0347029	-	4689	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.07	< 0.1	
+CG7564	FBtr0345387	-	772	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	< 0.1	
+Parp	FBtr0113885	Poly-(ADP-ribose) polymerase	2983	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	< 0.1	
+S6kII	FBtr0333715	Ribosomal protein S6 kinase II	1264	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	< 0.1	
+mts	FBtr0343416	microtubule star	37138	0	0	0	0	1	1	0	0	dme-miR-999-3p	0	-0.06	< 0.1	
+DCTN4-p62	FBtr0088944	"Dynactin 4, p62 subunit"	1933	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	< 0.1	
+CG6094	FBtr0337004	-	2543	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	N/A	
+comm2	FBtr0075580	comm2	977	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.09	0.11	
+CG3420	FBtr0086135	-	907	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.39	< 0.1	
+Maf1	FBtr0113830	Maf1	2921	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	< 0.1	
+Actn	FBtr0070345	alpha actinin	11970	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.05	< 0.1	
+CG17508	FBtr0086071	-	4491	0	0	0	0	1	0	1	0	dme-miR-999-3p	0	-0.02	< 0.1	
+CG14200	FBtr0074721	-	1936	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.01	< 0.1	
+Sgf11	FBtr0113179	SAGA associated factor 11kDa	834	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.04	< 0.1	
+Nup188	FBtr0302596	Nucleoporin 188kDa	530	0	0	0	0	1	0	0	1	dme-miR-999-3p	0	-0.47	< 0.1	
